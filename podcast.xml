@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My Awesome Podcast</title>
-    <link>https://USERNAME.github.io/my-podcast/</link>
+    <title>BIG SISTER, GODS BIGGER</title>
+    <link>https://GabriellaJenniferNkabinde.github.io/my-podcast/</link>
     <description>This is my first podcast. Excited to share episodes!</description>
     <language>en-us</language>
     <itunes:author>Gabriella Nkabinde</itunes:author>
     <itunes:category text="Education"/>
-    <itunes:image href="https://USERNAME.github.io/my-podcast/cover.jpg"/>
+    <itunes:image href="https://GabriellaJenniferNkabinde.github.io/my-podcast/cover.jpg"/>
 
     <item>
       <title>Episode 1: Getting Started</title>
       <itunes:author>Gabriella Nkabinde</itunes:author>
       <itunes:subtitle>My very first episode!</itunes:subtitle>
       <itunes:summary>In this episode, I talk about starting my podcast journey and learning new skills.</itunes:summary>
-      <enclosure url="https://USERNAME.github.io/my-podcast/episode1.mp3" length="12345678" type="audio/mpeg"/>
-      <guid>https://USERNAME.github.io/my-podcast/episode1.mp3</guid>
+      <enclosure url="https://GabriellaJenniferNkabinde.github.io/my-podcast/episode1.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://GabriellaJenniferNkabinde.github.io/my-podcast/episode1.mp3</guid>
       <pubDate>Fri, 02 Feb 2026 16:00:00 +0200</pubDate>
       <itunes:duration>00:10:00</itunes:duration>
     </item>

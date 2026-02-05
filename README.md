@@ -1,2 +1,2 @@
-# THE SPACE
-A HOME FOR ALL WHO SEEK PEACE AND SERINITY AWAY FROM THE FAST PACED, AD FILLED WORLD WE LIVE IN. A SAFE CALM PLACE WHERE YOU CAN FIND COMMUNITY AND PEACE WITH CHRIST WHILE BUILDING FELLOWSHIP IN THE COMFORT OF YOUR HOME. LISTEN IN, SHARE, LEARN AND EXPIRIENCE THE LOVE OF CHRIST WE US IN THE SPACE.
+# THE-SPACE
+A home for all who seek peace and serenity away from the fast paced, AD filled world we live in. A safe, calm space where you can find community and peace with Christ while building fellowship in the comfort of your home. Listen in, Share, Learn and Expirience the love of Christ with us in THE SPACE.
